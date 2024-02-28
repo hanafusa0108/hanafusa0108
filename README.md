@@ -1,13 +1,12 @@
 ### プロフィール
-・名前:花房 健太郎 (Hanafusa Kentaro)
-・所属:愛媛大学 工学部 工学科 人工知能研究室 B3
-・Email:hanafusa@ai.cs.ehime-u.ac.jp
+・名前:花房 健太郎 (Hanafusa Kentaro)<br>
+・所属:愛媛大学 工学部 工学科 人工知能研究室 B3<br>
+・Email:hanafusa@ai.cs.ehime-u.ac.jp<br>
 
 <!--
 **hanafusa0108/hanafusa0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-プロフィール
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
