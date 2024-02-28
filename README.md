@@ -1,4 +1,4 @@
-### Hi there 👋
+### プロフィール
 
 <!--
 **hanafusa0108/hanafusa0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
