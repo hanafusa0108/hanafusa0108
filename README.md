@@ -1,5 +1,5 @@
 ### プロフィール
-#### ・名前:花房 健太郎
+・名前:花房 健太郎
 
 <!--
 **hanafusa0108/hanafusa0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
