@@ -1,21 +1,10 @@
 ### プロフィール
+---
 - 名前：花房 健太郎 (Hanafusa Kentaro)<br>
 - 所属：愛媛大学 工学部 工学科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B3<br>
 - Email：hanafusa@ai.cs.ehime-u.ac.jp<br>
 
 ### 資格
+---
 - ITパスポート
 - 基本情報技術者試験
-
-<!--
-**hanafusa0108/hanafusa0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
