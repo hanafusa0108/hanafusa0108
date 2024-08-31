@@ -7,7 +7,7 @@
 #### 国内会議
 - 花房 健太郎, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
   大規模言語モデルによる11種類の日本語スタイル変換の性能評価．<br>
-  NLP若手の会第19回シンポジウム (YANS2024) , September 2024． [PDF](https://sites.google.com/view/ehime-nlp/)<br>
+  NLP若手の会第19回シンポジウム (YANS2024) , September 2024．[[PDF]]()<br>
 
 ### 資格
 *    *    *
