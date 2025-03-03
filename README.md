@@ -7,15 +7,15 @@
 #### 国内会議
 - 花房 健太郎, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
   大規模言語モデルによる日本語スタイル変換の性能評価．<br>
-  言語処理学会第31回年次大会, pp.3719-3723, March 2025．[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P9-16.pdf)<br>
+  言語処理学会第31回年次大会, pp.3719-3723, March 2025．[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P9-16.pdf)
 
 - 花房 健太郎, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
   大規模言語モデルによる11種類の日本語スタイル変換の性能評価．<br>
-  NLP若手の会第19回シンポジウム（YANS2024）, September 2024．<br>
+  NLP若手の会第19回シンポジウム（YANS2024）, September 2024．
 
 - 宮田 莉奈, 眞鍋 光汰, 福島 啓太, 花房 健太郎, 高田 一慶, 梶原 智之, 桂井 麻里衣, 二宮 崇．<br>
   情報科学分野における学会発表タイトルの分野推定データセットの構築．<br>
-  NLP若手の会第19回シンポジウム（YANS2024）, September 2024．<br>
+  NLP若手の会第19回シンポジウム（YANS2024）, September 2024．
 
 ### 受賞
 - NLP若手の会第19回シンポジウム（YANS2024） スポンサー賞
