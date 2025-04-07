@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：花房 健太郎 (Hanafusa Kentaro)<br>
-- 所属：愛媛大学大学院　理工学研究科　数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M1<br>
+- 所属：愛媛大学大学院　理工学研究科　理工学専攻　数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M1<br>
 - Email：hanafusa@ai.cs.ehime-u.ac.jp<br>
 
 ### 研究業績
