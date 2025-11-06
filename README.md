@@ -11,11 +11,11 @@
 
 - 宮田 莉奈, 眞鍋 光汰, 福島 啓太, 花房 健太郎, 高田 一慶, 梶原 智之, 桂井 麻里衣, 二宮 崇．<br>
   CoCoA:情報科学分野における日本語の学会発表タイトルの分野推定データセット．<br>
-  情報処理学会第87回全国大会, March 2025.
+  情報処理学会第87回全国大会, March 2025. [[PDF]](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-miyata.pdf)
 
 - 花房 健太郎, 前川 大輔, 梶原 智之．<br>
   大規模言語モデルによる書き手の情報を考慮した感情分析．<br>
-  情報処理学会第87回全国大会, March 2025.
+  情報処理学会第87回全国大会, March 2025. [[PDF]](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-hanafusa.pdf)
 
 - 花房 健太郎, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
   大規模言語モデルによる日本語スタイル変換の性能評価．<br>
