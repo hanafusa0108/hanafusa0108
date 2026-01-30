@@ -4,6 +4,11 @@
 - Email：hanafusa@ai.cs.ehime-u.ac.jp<br>
 
 ### 研究業績
+#### 国際会議
+- Yui Oka, Kentaro Hanafusa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito．<br>
+  Probing Rotary Position Embeddings through Frequency Entropy．<br>
+  The Fourteenth International Conference on Learning Representations (ICLR 2026)．
+
 #### 国内会議
 - 花房 健太郎, 眞鍋 光汰, 前田 雄生, 前川 大輔, 梶原 智之, 早志 英朗, 中島 悠太, 長原 一．<br>
   アスペクトベースの感情極性分類および感情強度推定のための日本語データセットの試作．<br>
