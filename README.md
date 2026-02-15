@@ -9,7 +9,7 @@
   Probing Rotary Position Embeddings through Frequency Entropy．<br>
   The Fourteenth International Conference on Learning Representations (ICLR 2026)．
 
-- **Kentaro Hanafusa**, Kota Manabe, Yuki Meda, Daisuke Maekawa, Tomoyuki Kajiwara, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara．<br>
+- **Kentaro Hanafusa**, Kota Manabe, Yuki Maeda, Daisuke Maekawa, Tomoyuki Kajiwara, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara．<br>
   A Japanese Dataset for Aspect-based Sentiment Polarity and Emotion Intensity Estimation．<br>
   The 15th International Conference on Language Resources and Evaluation (LREC 2026)．
 
