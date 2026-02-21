@@ -5,7 +5,7 @@
 
 ### 研究業績
 #### 国際会議
-- \*岡 佑依, **\*花房 健太郎**, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution)．<br>
+- \*Yui Oka, **\*Kentaro Hanafusa**, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution)．<br>
   Probing Rotary Position Embeddings through Frequency Entropy．<br>
   The Fourteenth International Conference on Learning Representations (ICLR 2026)．
 
