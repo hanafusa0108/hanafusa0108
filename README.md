@@ -7,7 +7,7 @@
 #### 国際会議
 - \*Yui Oka, **\*Kentaro Hanafusa**, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution)．<br>
   Probing Rotary Position Embeddings through Frequency Entropy．<br>
-  The Fourteenth International Conference on Learning Representations (ICLR 2026)．
+  The Fourteenth International Conference on Learning Representations (ICLR 2026)．[[OpenReview]]([[https://moguranosenshi.sakura.ne.jp/publications/ipsj87-miyata.pdf](https://openreview.net/pdf?id=1JZuEDq62N](https://openreview.net/pdf?id=1JZuEDq62N)))
 
 - **Kentaro Hanafusa**, Kota Manabe, Yuki Maeda, Daisuke Maekawa, Tomoyuki Kajiwara, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara．<br>
   A Japanese Dataset for Aspect-based Sentiment Polarity and Emotion Intensity Estimation．<br>
