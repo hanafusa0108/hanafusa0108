@@ -16,11 +16,11 @@
 #### 国内会議
 - \*岡 佑依, **\*花房 健太郎**, 長谷川 拓, 西田 京介 (\* Equal contribution)．<br>
   周波数エントロピーによる位置埋込みの解明．<br>
-  言語処理学会第32回年次大会, March 2026．
+  言語処理学会第32回年次大会, March 2026．[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-20.pdf)
 
 - **花房 健太郎**, 宮田 莉奈, 梶原 智之, 北岡 佑一, 荒木 亮, 真嘉比 愛．<br>
   大規模言語モデルによる日本語文法誤り訂正の性能評価．<br>
-  言語処理学会第32回年次大会, March 2026．
+  言語処理学会第32回年次大会, March 2026．[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B9-21.pdf)
 
 - 杉山 誠治, **花房 健太郎**, 梶原 智之．<br>
   マルチモーダル楽曲検索のための英日クロスリンガル対照学習．<br>
