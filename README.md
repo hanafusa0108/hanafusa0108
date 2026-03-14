@@ -51,6 +51,12 @@
   NLP若手の会第19回シンポジウム（YANS2024）, September 2024．
 
 ### 受賞
+- 言語処理学会第32回年次大会（NLP2026） 優秀賞
+  
+  > \*岡 佑依, **\*花房 健太郎**, 長谷川 拓, 西田 京介 (\* Equal contribution)．<br>
+  周波数エントロピーによる位置埋込みの解明．<br>
+  言語処理学会第32回年次大会, March 2026．[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-20.pdf)
+
 - NLP若手の会第19回シンポジウム（YANS2024） スポンサー賞
   
   > **花房 健太郎**, 柳本 大輝, 梶原 智之, 二宮 崇．<br>
