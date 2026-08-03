@@ -1,6 +1,6 @@
 ### プロフィール
 - 名前：花房 健太郎 (Hanafusa Kentaro)<br>
-- 所属：愛媛大学大学院　理工学研究科　理工学専攻　数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M1<br>
+- 所属：愛媛大学大学院　理工学研究科　理工学専攻　数理情報プログラム [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) M2<br>
 - Email：hanafusa@ai.cs.ehime-u.ac.jp<br>
 
 ### 研究業績
@@ -14,6 +14,14 @@
   The 15th International Conference on Language Resources and Evaluation (LREC 2026)．
 
 #### 国内会議
+- **花房 健太郎**, 前川 大輔, 梶原 智之．<br>
+  大規模言語モデルによる個人特化感情分析の性能評価析．<br>
+  NLP若手の会第21回シンポジウム（YANS2026）, August 2026．
+
+- **花房 健太郎**, 眞鍋 光汰, 前田 雄生, 前川 大輔, 梶原 智之, 早志 英朗, 中島 悠太, 長原 一．<br>
+  アスペクトベースの感情極性分類と感情強度推定のための日本語データセット．<br>
+  第25回情報科学技術フォーラム (FIT2026), pp.xx-xx, September 2026．
+
 - \*岡 佑依, **\*花房 健太郎**, 長谷川 拓, 西田 京介 (\* Equal contribution)．<br>
   周波数エントロピーによる位置埋込みの解明．<br>
   言語処理学会第32回年次大会, March 2026．[[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-20.pdf)
@@ -51,7 +59,7 @@
   NLP若手の会第19回シンポジウム（YANS2024）, September 2024．
 
 ### 受賞
-- 言語処理学会第32回年次大会　優秀賞
+- 言語処理学会第32回年次大会　優秀賞 (13/789 submissions)
   
   > \*岡 佑依, **\*花房 健太郎**, 長谷川 拓, 西田 京介 (\* Equal contribution)．<br>
   周波数エントロピーによる位置埋込みの解明．<br>
