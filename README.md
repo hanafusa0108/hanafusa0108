@@ -11,11 +11,15 @@
 
 - **Kentaro Hanafusa**, Kota Manabe, Yuki Maeda, Daisuke Maekawa, Tomoyuki Kajiwara, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara．<br>
   A Japanese Dataset for Aspect-based Sentiment Polarity and Emotion Intensity Estimation．<br>
-  The 15th International Conference on Language Resources and Evaluation (LREC 2026)．
+  The 15th International Conference on Language Resources and Evaluation (LREC 2026) [ACL Anthology](https://aclanthology.org/2026.lrec-1.640/)．
 
 #### 国内会議
 - **花房 健太郎**, 前川 大輔, 梶原 智之．<br>
   大規模言語モデルによる個人特化感情分析の性能評価．<br>
+  NLP若手の会第21回シンポジウム（YANS2026）, August 2026．
+
+- 山口 哲平, **花房 健太郎**, 近藤 里咲, 梶原 智之, 早志 英朗, 中島 悠太, 長原 一．<br>
+  ニュース記事に対する読者感情分布の推定に向けて．<br>
   NLP若手の会第21回シンポジウム（YANS2026）, August 2026．
 
 - **花房 健太郎**, 眞鍋 光汰, 前田 雄生, 前川 大輔, 梶原 智之, 早志 英朗, 中島 悠太, 長原 一．<br>
@@ -59,6 +63,12 @@
   NLP若手の会第19回シンポジウム（YANS2024）, September 2024．
 
 ### 受賞
+- NLP若手の会第21回シンポジウム（YANS2026）審査員特別賞
+  
+  > 松野智紀, 上野和樹, **花房健太郎**, 北村有彩, 目時大暉, 佐藤滉太．<br>
+    第21回言語処理若手シンポジウム ハッカソン OMD部門．<br>
+    NLP若手の会第21回シンポジウム (YANS2026), August 2026．<br>
+
 - 言語処理学会第32回年次大会　優秀賞 (13/789 submissions)
   
   > \*岡 佑依, **\*花房 健太郎**, 長谷川 拓, 西田 京介 (\* Equal contribution)．<br>
