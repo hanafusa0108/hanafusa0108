@@ -13,6 +13,10 @@
   A Japanese Dataset for Aspect-based Sentiment Polarity and Emotion Intensity Estimation．<br>
   The 15th International Conference on Language Resources and Evaluation (LREC 2026) [ACL Anthology](https://aclanthology.org/2026.lrec-1.640/)．
 
+- **Kentaro Hanafusa**, Daisuke Maekawa, Tomoyuki Kajiwara．<br>
+  Personalized Emotion Analysis via Prompting Large Language Models with Writer Information．<br>
+  The 11th Workshop on Natural User-generated Text (W-NUT2026)．
+
 #### 国内会議
 - **花房 健太郎**, 前川 大輔, 梶原 智之．<br>
   大規模言語モデルによる個人特化感情分析の性能評価．<br>
